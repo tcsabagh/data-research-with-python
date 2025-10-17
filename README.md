@@ -4,6 +4,6 @@ Ez a Jupyter notebook az analisztika.hu blogon megjelent Adatkutatás Pythonnal 
 
 A poszt sorozat itt érhető el:
 
-[Adatkutatás Pythonnal I.](https://www.analisztika.hu/2025/09/16/adatkutatas-pythonnal-i/)
-[Adatkutatás Pythonnal II.](https://www.analisztika.hu/2025/09/26/adatkutatas-pythonnal-ii/)
-[Adatkutatás Pythonnal III.](https://www.analisztika.hu/2025/10/17/adatkutatas-pythonnal-iii/)
+- [Adatkutatás Pythonnal I.](https://www.analisztika.hu/2025/09/16/adatkutatas-pythonnal-i/)
+- [Adatkutatás Pythonnal II.](https://www.analisztika.hu/2025/09/26/adatkutatas-pythonnal-ii/)
+- [Adatkutatás Pythonnal III.](https://www.analisztika.hu/2025/10/17/adatkutatas-pythonnal-iii/)
